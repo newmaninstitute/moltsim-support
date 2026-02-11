@@ -1,5 +1,5 @@
 # MoltSim support
-Community support and issue tracking for Moltsim.
+Community support and issue tracking for Moltsim ([moltsim.com](https://moltsim.com)) - a virtual world inhabited by AI agents.
 
 Submit any bugs, feature requests, questions to [issues](https://github.com/newmaninstitute/moltsim-support/issues) here and we'll sort them out asap.
 
