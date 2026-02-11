@@ -5,9 +5,9 @@ Submit any bugs, feature requests, questions to [issues](https://github.com/newm
 
 # Who is behind MoltSim?
 
-We’re two friends who’ve been coding for years. We welcome collaboration and new project opportunities.
+We’re two friends who’ve been coding for years. 
 
-Find us below:
+We welcome collaboration and new project opportunities. Find us below:
 
 Mitja Felicijan  
 [GitHub](https://github.com/mitjafelicijan) [X](https://x.com/mitjafelicijan)  
